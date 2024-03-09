@@ -2,7 +2,8 @@
 
 Learn Hibernate, Spring Framework, Spring Boot, Microservices.
 
-----------
+> [!IMPORTANT]
+> This repository is still under development.
 
 ## Pre-Requisites
 
@@ -13,14 +14,10 @@ Learn Hibernate, Spring Framework, Spring Boot, Microservices.
 - Hibernate,
 - Maven,
 
-----------
-
 ## Environment Requisites
 
 - OpenJdk 17,
 - IntelliJ IDEA or Spring Tool Suite (STS),
-
-----------
 
 ## What Will You Learn?
 
@@ -36,8 +33,6 @@ Learn Hibernate, Spring Framework, Spring Boot, Microservices.
 - Fat & Jar with Embedded Server,
 - War with External Server,
 
-----------
-
 > ### *Find this way out to learn and understand the concept*
 >
 > *What is _____?*  
@@ -45,8 +40,6 @@ Learn Hibernate, Spring Framework, Spring Boot, Microservices.
 > *How to access?*  
 > *Adv.?*  
 > *Dis-Adv.?*
-
-----------
 
 ## Spring Developer Roadmap
 
@@ -84,11 +77,7 @@ Learn Hibernate, Spring Framework, Spring Boot, Microservices.
 
 ### 17_O ⚡ DevOps
 
-----------
-
 ## Topics
-
-----------
 
 ## List _of_ Questions _&_ Answers _for_ Spring Developer _Interview_
 
@@ -113,5 +102,3 @@ Learn Hibernate, Spring Framework, Spring Boot, Microservices.
 > **Q. What is Spring Boot?**
 
 ***Answer:***
-
-----------
